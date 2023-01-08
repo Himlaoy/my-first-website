@@ -1,0 +1,194 @@
+*{
+    margin: 0;
+    font-family: sans-serifs;
+}
+/* header-sector */
+.header-sector{
+    /* max-width: 1400px; */
+    
+}
+.div-head{
+    text-align: right;
+    background-image: url('../banner/banner1.png') ;
+
+}
+
+.header-title{
+    font-weight: 800;
+    font-size: 45px;
+    margin-left: 800px;
+    margin-right: 40px;
+    text-align: right;
+}
+.title-description{
+    text-align: center ;
+    margin-left: 888px;
+    margin-right: 50px;
+}
+.text-primary{
+    background-color:coral;
+    font-weight: 700;
+    font-size: 20px;
+    border-radius: 5px;
+    border-style: none;
+    margin-right: 140px;
+    margin-bottom: 500px;
+    padding: 20px 30px;
+    margin-top: 20px;
+    
+    
+}
+
+/* main section */
+
+.image{
+    background-color: darksalmon;
+    border-radius: 50%;
+
+}
+
+.select-head{
+    margin-top: 50px;
+    font-weight: 800;
+    font-size: 35px;
+    text-align: center;
+    text-justify: auto;
+}
+
+.div-sec-head{
+    display: flex;
+    text-align: left;
+    padding: 50px 80px;
+}
+.sec-p-description{
+    margin-top: 30px;
+    margin-left: 200px;
+    margin-right: 30px;
+    color:rgba(54, 52, 52, 0.648)
+
+}
+.sector-descriptor{
+    margin-left: 200px;
+    margin-right: 30px;
+    color:rgba(54, 52, 52, 0.648)
+}
+
+.sect-head{
+    font-weight: 800;
+    margin-left: 200px;
+    margin-right: 40px;
+    margin-bottom: 20px;
+}
+/* section two my plans */
+
+.plan-head{
+    text-align: center;
+    font-weight: 700;
+    font-size: 45px;
+}
+
+.plan-info{
+    text-align: center;
+    margin: 30px 30px;
+
+}
+
+.flexa{
+    display: flex;
+}
+
+.title{
+    font-weight: 700;
+    font-size: 45px;
+}
+
+.title-descript{
+    font-weight: 500;
+    font-size: 25px;
+    color: rgb(104, 100, 100);
+}
+/* mindset */
+
+.text-primaryy{
+    background-color:aliceblue;
+    font-weight: 700;
+    font-size: 20px;
+    border-radius: 5px;
+    border-style: none;
+    margin-left: 200px;
+    margin-top: 40px;
+    background-size: 18px 35px;
+    padding: 20px 30px;
+ }
+.mindset{
+    font-weight: 800;
+    font-size: 35px;
+    margin-left: 200px;
+    margin-top: 30px;
+}
+.positive{
+    background-image: url('../watch.png'), url('../gradient2.png');
+    background-repeat: no-repeat;
+    padding: 10px 100px;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-size: cover, cover;
+}
+/* footer */
+
+.foot-head{
+    display: flex;
+    background-position: 800px 1400px;
+    background-color: black;
+
+}
+
+.foot{
+    margin-bottom: 200px;
+    margin-left: 50px;
+    margin-top: 50px;
+    
+}
+.foot-title{
+    font-weight: 800;
+    font-size: 45px;
+    color: aliceblue;
+}
+.foot-des{
+    font-weight: 500;
+    font-size: 30px;
+    color: aliceblue;
+    margin-top: 20px;
+    margin-right: 200px;
+}
+.last-footer{
+    font-weight: 500;
+    font-size: 30px;
+    color: aliceblue;
+}
+.last-foot{
+    text-align: left;
+}
+.text-primaryyy{
+    background-color: rgb(244, 224, 217);
+    font-weight: 700;
+    font-size: 20px;
+    border-radius: 5px;
+    border-style: none;
+    margin-left: 50px;
+    margin-top: 40px;
+    background-size: 18px 35px;
+    padding: 20px 30px;
+    margin-right: 80px;
+    color: darksalmon;
+
+}
+.y{
+    margin-bottom: 200px;
+    margin-left: 50px;
+    margin-top: 50px;
+    text-align: left;
+    border-radius: 5px;
+   
+}
